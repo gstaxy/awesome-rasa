@@ -5,8 +5,6 @@
 > Useful resources for building, improving, and deploying contextual chatbots and assistants with [Rasa](https://rasa.com)
 
 ## Contents
-- [Awesome Rasa ![Awesome](https://awesome.re)](#awesome-rasa-)
-  - [Contents](#contents)
   - [Tools](#tools)
   - [Documentation](#documentation)
   - [Blogs](#blogs)
