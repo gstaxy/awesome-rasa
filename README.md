@@ -55,6 +55,13 @@
 - [Rasa Masterclass Ep#4](https://youtu.be/ET1k9OrsfYQ) - Training the NLU models: understanding pipeline components.
 - [Rasa Masterclass Ep#5](https://youtu.be/WoTmnN2EMdo) - Intro to dialogue management with Rasa.
 - [Rasa Masterclass Ep#6](https://youtu.be/W7jdIeyIPcU) - Domain, custom actions and slots.
+- [Rasa Masterclass Ep#7](https://youtu.be/EuOyncigHLA) - Dialogue Policies.
+- [Rasa Masterclass Ep#8](https://youtu.be/9POI7LiKH_8) - Implementing custom actions, forms and fallback.
+- [Rasa Masterclass Ep#9](https://youtu.be/IUYdwy8HPVc) - Improving the assistant: Setting up the Rasa X.
+- [Rasa Masterclass Ep#10](https://youtu.be/LWzsS5Q-RoI) - Improving the assistant: sharing with real testers.
+- [Rasa Masterclass Ep#11](https://youtu.be/uYUxJIiinJE) - Connecting an assistant to external messaging channels.
+- [Rasa Masterclass Ep#12](https://youtu.be/QLq_U3J9kOo) - Deploying Rasa X in a Cluster Environment.
+- [Rasa Masterclass - What's new in Rasa 2.x](https://youtu.be/QurrsA1z9-A) - Walk through the differences between Rasa 1.x and 2.x.
 - [Rasa X Tutorial 1](https://www.youtube.com/watch?v=POcgUi34Aow) - Constructing a Basic AI Assistant.
 - [Rasa X Tutorial 2](https://youtu.be/8Sc7-AiY0fg) - Expanding Language Understanding.
 - [Rasa X Tutorial 3](https://youtu.be/6Pghab6b28E) - Richer Responses.
