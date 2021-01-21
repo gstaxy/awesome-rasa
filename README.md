@@ -28,18 +28,19 @@
 
 ## Blogs
 - The Rasa Masterclass Handbook
-  - [Episode 1](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-1/?utm_source=awesome-rasa)
-  - [Episode 2](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-2/?utm_source=awesome-rasa)
-  - [Episode 3](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-3/?utm_source=awesome-rasa)
-  - [Episode 4](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-4/?utm_source=awesome-rasa)
-  - [Episode 5](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-5/?utm_source=awesome-rasa)
-  - [Episode 6](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-6/?utm_source=awesome-rasa)
-  - [Episode 7](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-7/?utm_source=awesome-rasa)
-  - [Episode 8](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-8/?utm_source=awesome-rasa)
-  - [Episode 9](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-9/?utm_source=awesome-rasa)
-  - [Episode 10](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-10/?utm_source=awesome-rasa)
-  - [Episode 11](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-11/?utm_source=awesome-rasa)
-  - [Episode 12](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-12/?utm_source=awesome-rasa)
+  - [The Rasa Masterclass Ebook](https://info.rasa.com/masterclass-ebook) - Download the 170 pages ebook.
+  - [Episode 1](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-1/?utm_source=awesome-rasa) - Intro to conversational AI and Rasa.
+  - [Episode 2](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-2/?utm_source=awesome-rasa) - Creating the NLU training data.
+  - [Episode 3](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-3/?utm_source=awesome-rasa) - Training the NLU model: pre-configured pipelines.
+  - [Episode 4](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-4/?utm_source=awesome-rasa) - Training the NLU models: understanding pipeline components. 
+  - [Episode 5](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-5/?utm_source=awesome-rasa) - Intro to dialogue management with Rasa.
+  - [Episode 6](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-6/?utm_source=awesome-rasa) - Domain, custom actions and slots.
+  - [Episode 7](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-7/?utm_source=awesome-rasa) - Dialogue Policies.
+  - [Episode 8](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-8/?utm_source=awesome-rasa) - Implementing custom actions, forms and fallback.
+  - [Episode 9](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-9/?utm_source=awesome-rasa) - Improving the assistant: Setting up the Rasa X.
+  - [Episode 10](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-10/?utm_source=awesome-rasa) - Improving the assistant: sharing with real testers.
+  - [Episode 11](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-11/?utm_source=awesome-rasa) - Connecting an assistant to external messaging channels.
+  - [Episode 12](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-12/?utm_source=awesome-rasa) - Deploying Rasa X in a Cluster Environment.
 
 ## Online courses
 - [Rasa for Beginners](https://www.udemy.com/course/rasa-for-beginners/) - Build your first Rasa assistant.
